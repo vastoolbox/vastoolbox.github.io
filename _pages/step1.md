@@ -16,7 +16,7 @@ Downloading Voice Assistant System (VAS)(e.g., Amazon Alexa) command history is 
 
 - Users can download data for a single account of a specified time range.
 - Users can download data for multiple accounts of a specified time range.
-- Users will be able to display the downloaded data.
+- Users can view the downloaded data.
 - Users can also label the downloaded data and convert it into a specific format.
 
 
