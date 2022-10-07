@@ -140,4 +140,4 @@ Name → Sarah
 
 ## Domain Analysis
 
-![DomainAnalysis](/files/pdf/DomainAnalysis.pdf)
+![DomainAnalysis](/files/svg/DomainAnalysis.svg)
