@@ -37,8 +37,14 @@ navigation:
 - text: Project Step 1
   url: step1/
   internal: true
-- text: Project Step 2
-  url: step2/
+- text: Project Step 2-User Analysis
+  url: step2-2/
+  internal: true
+- text: Project Step 2-Task Analysis
+  url: step2-1/
+  internal: true
+- text: Project Step 2-Domain Analysis
+  url: step2-3/
   internal: true
 #- text: Example Page
 #  url: example_page/
@@ -60,3 +66,6 @@ brand_color: "#2cb34a"
 # Offline caching
 offline_cache: false
 cache_name: DOCter-v1.1
+
+plugins:
+  - jekyll-pdf-embed
