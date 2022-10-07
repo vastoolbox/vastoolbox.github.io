@@ -140,4 +140,4 @@ Name → Sarah
 
 ## Domain Analysis
 
-{% pdf "/files/pdf/DomainAnalysis.pdf" %}
+![DomainAnalysis](/files/pdf/DomainAnalysis.pdf)
