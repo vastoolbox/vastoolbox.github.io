@@ -49,7 +49,7 @@ Name → John Doe
 4. Domain experience→ John is very familiar with retrieving vas account information of users in the past to study their cognitive behavior.
 5. Computer experience→John is adept at programming languages like python and C++ and has completed several projects in machine learning.
 6. Behavior → 
-- downloads chunks of various users' vas account data to study the cognitive pattern of several
+- downloads chunks of various users' vas account data to study the cognitive pattern of several users.
 7. People of different age groups.
 - studies these different types of vas commands of several users to check for cognitive disorders (eg:dementia).
 8. Goal →
