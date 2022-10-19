@@ -45,17 +45,16 @@ Name → John Doe
    - average stipend received yearly →$45000
    - John is a research student and is working on a thesis that involves testing cognitive patterns in especially old people. His work is mostly in the field of machine learning.
 2. Physical limitations → John does not have any physical limitations but does suffer from several food allergies like shrimps and peanuts.
-4. Domain experience→ John is very familiar with retrieving vas account information of users in the past to study their cognitive behavior.
-5. Computer experience→John is adept at programming languages like python and C++ and has completed several projects in machine learning.
-6. Behavior → 
+3. Domain experience→ John is very familiar with retrieving vas account information of users in the past to study their cognitive behavior.
+4. Computer experience→John is adept at programming languages like python and C++ and has completed several projects in machine learning.
+5. Behavior → 
 - downloads chunks of various users' vas account data to study the cognitive pattern of several users.
-7. People of different age groups.
-- studies these different types of vas commands of several users to check for cognitive disorders (eg:dementia).
-8. Goal →
+- studies these different types of vas commands of several users to check for cognitive disorders of people from different age groups. (eg:dementia).
+6. Goal →
 - to download the vas commands for several vas users' accounts and study them for carrying out cognitive analysis.
 - to label the data once downloading is finished for efficient grouping of the data and to filter out the useless commands from the useful ones.
 - to study this labeled data and detect cognitive illnesses/disorders.
-9. Conclusion: vas toolbox is a great option for John as this application is optimized for researchers and he can get the most out of this application by downloading data of multiple accounts and grouping them into useful and useless data as he seems fit.
+7. Conclusion: vas toolbox is a great option for John as this application is optimized for researchers and he can get the most out of this application by downloading data of multiple accounts and grouping them into useful and useless data as he seems fit.
 
 ### Persona 3
 
