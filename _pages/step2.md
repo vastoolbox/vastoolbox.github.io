@@ -44,8 +44,7 @@ Name → John Doe
    - gender: male
    - average stipend received yearly →$45000
    - John is a research student and is working on a thesis that involves testing cognitive patterns in especially old people. His work is mostly in the field of machine learning.
-2. Physical limitations → John does not have any physical limitations but does suffer from several food
-3. Allergies like shrimps and peanuts.
+2. Physical limitations → John does not have any physical limitations but does suffer from several food allergies like shrimps and peanuts.
 4. Domain experience→ John is very familiar with retrieving vas account information of users in the past to study their cognitive behavior.
 5. Computer experience→John is adept at programming languages like python and C++ and has completed several projects in machine learning.
 6. Behavior → 
