@@ -83,6 +83,8 @@ Name → Sarah
 
 ### Task 1: Data downloading
 
+Goal: Downloading the commands from an account in a specific time range.
+
 1. Set the VAS account, passwords and device (optional)
    1. Click "add account"
    2. Type in account and password
@@ -105,6 +107,8 @@ Name → Sarah
 
 ### Task 2: Data visualization
 
+Goal: Display the data we downloaded.
+
 1. Specify data location
    1. Click "open data"
    2. Select a location
@@ -115,6 +119,9 @@ Name → Sarah
 
 
 ### Task 3: Labeling
+
+Goal: Delete the useless commands (e.g., example commands said by RA). 
+Mark the error commands (e.g., commands that VAS fail to recognize)
 
 1. Open the raw data
    1. Click "open data"
