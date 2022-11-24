@@ -46,6 +46,9 @@ navigation:
 - text: Project Step 4
   url: step4/
   internal: true
+- text: Project Step 5
+  url: step5/
+  internal: true
 #- text: Example Page
 #  url: example_page/
 #  internal: true
